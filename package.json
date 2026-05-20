@@ -1,0 +1,8 @@
+{
+  "name": "admob-verification",
+  "version": "1.0.0",
+  "description": "AdMob app-ads.txt verification site",
+  "scripts": {
+    "build": "echo 'No build needed for static site'"
+  }
+}
